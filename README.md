@@ -10,7 +10,7 @@ For this image I was doing a test for the LCD dispaly to dispaly text based on t
 ![This is second image](images/image2.jpeg)
 
 
-In this image, I am coding on Arduino IDE for the LCD to dispaly a smaple text of "Hi" 
+In this image, I am coding on Arduino IDE for the LCD to dispaly a smaple text of "LCD is Working"!
 ![This is third image](images/image3.jpeg)
 
 
