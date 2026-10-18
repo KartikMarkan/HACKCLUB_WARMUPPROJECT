@@ -67,8 +67,9 @@ Here are all the remaining pictures + STEP files!
 
 3D Model Files:
 
-[Download the STEP file for Body Part](3D-Model/Body_Part.stp)
+[Download the STEP file for Body Part](3D-Model/myfile.step)
 
+Notes: There is no BOM for this Project, I cancelled it last minute.
 
 Anyways, thanks for reading through my readme!
 
