@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) – [open the project](https://halflife.hackclub.com/projects/cmurq8y8k00y601sms2emt7zr). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> This is the first-ever hardware project that I will be making! I am using an Arduino Uno R3, some LEDs, a Breadboard, resistors, and an ultrasonic sensor. I am making a sensor detection system that can be implemented in real life for sidewalks where there are traffic lights. The traffic lights will be red, yellow, or green according to the ultrasonic sensor. If the ultra sonic sensor detects something  coming towards the crosswalk(human) that is 21 cm or more away(for this model), it will turn the traffic light yellow. If the object is 20 or less cm away then it would make the light red. If there is no one then the light is green.
+> This is the first-ever hardware project that I will be making! I am using an Arduino Uno R3, some LEDs, a Breadboard, resistors, and an ultrasonic sensor. I am making a sensor detection system that can be implemented in real life for sidewalks where there are traffic lights. The traffic lights will be red, yellow, or green according to the ultrasonic sensor. If the ultra sonic sensor detects something  coming towards the crosswalk(human) that is 21 cm or more away(for this model), it will turn the traffic light yellow. If the object is 20 or less cm away then it would make the light red. If there is no one then the light is green. ALSO NOTE: The wiring diagram is in title image.I made it with lucid chart.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
@@ -134,3 +134,7 @@ I gave up at the end due to time, but if I had one more day, I could have been a
 ![62a81603-8a04-4e46-a893-6d111d96fa9d](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/d6aac402d71da5a537c925722d1f91845abb9f306fb40d8abeb7d4d344e7b8c8.jpeg)
 
 My project worked, and the LCD was running smoothly. I will upload a video soon of the project working. Even though it didn't work as I wanted it to, I think this was still a success since it was my first time using most of the hardware.
+
+ALSO I made the wiring diagram on lucid chart(not actual wiried connections, took me 30 minutes):
+
+![Wiring](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/92fcd8b27e840eb2fe189515602ace39c071d462df1b8303138f122490537531.png)
