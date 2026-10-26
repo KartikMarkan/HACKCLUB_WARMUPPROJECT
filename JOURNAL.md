@@ -37,27 +37,27 @@ I started off getting my materials:
 
 My first step in building this project was to connect the Ultrasonic sensor to the Arduino Uno. To do so, I learned a little about the Trig and Echo pins since it was my first time using an ultrasonic sensor. I watched some YouTube tutorials online(like Science Buddies).
 
-![a0d8bd67-0f44-41ea-86fa-f3b90ba257d6](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/97d7ecc491048b76d3840bd2dee409600c1f59839a391f6e1311e441b442960a.jpeg)
+![a0d8bd67-0f44-41ea-86fa-f3b90ba257d6](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/97d7ecc491048b76d3840bd2dee409600c1f59839a391f6e1311e441b442960a.jpeg)
 
 After learning about the ultrasonic sensor, I created basic code using functions and variables to code the ultrasonic sensor on an Arduino Uno. After fixing a few errors ( like syntax errors) I was able to measure the distance of an object from the sensor. Here is a few screen shots of what I did while coding:
 
-![hackathon](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/1f63d5a5c0c8b993241507a438ff18e639fc51b3c9a81ca316e0008cdd9aa95a.png)
+![hackathon](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/1f63d5a5c0c8b993241507a438ff18e639fc51b3c9a81ca316e0008cdd9aa95a.png)
 
 Next I also coded the Green Led so based on the distance of the ultra sonic sensor, the Green LED would Blink.
 
 During my second hour, I connected the Yellow, and  Red LED:
 
-![WhatsApp Image 2026-10-03 at 5.58.32 PM](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/b227be26210b849db0f621a4fae1b8c4df789113547a07d783473e95291df176.jpeg)
+![WhatsApp Image 2026-10-03 at 5.58.32 PM](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/b227be26210b849db0f621a4fae1b8c4df789113547a07d783473e95291df176.jpeg)
 
 Finally, I did the coding(for around 45 minutes) - the coding part was really challenging for me, since it is my first time using a Ultrasonic sensor in Arduino. Also, I'm not an expert at Arduino since this is my first porject in Hack Club. I added the different functions like:
 
      1. diigtalWrite(trigPin,HIGH); -  used to turn pin 9 on(pin 9 is conencted to trig pin). This will be used to mesure distance. After 20 minutes I had this code:
 
-![okokokoklll](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/817db4ca7c31fa9b80bfded0243751322772e7449eae93a097e272ab0706230b.png)
+![okokokoklll](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/817db4ca7c31fa9b80bfded0243751322772e7449eae93a097e272ab0706230b.png)
 
 I added some more code:
 
-![33411](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/916ac44c528df7e0680a69f019ab8cc60d30f7147a466fe7cd2d15d20edd49e3.png)
+![33411](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/916ac44c528df7e0680a69f019ab8cc60d30f7147a466fe7cd2d15d20edd49e3.png)
 
 ### 2026-10-04 – Oct 3-  8:00 PM to 11:30 PM
 
@@ -69,7 +69,7 @@ After adding the UltraSonic Sensor, I wanted to add the LCD display. However, I 
 
 This took me aroudn 1 hour and 30 minutes:, here are some pcitrues of researching:
 
-![11113](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/bd1746a8431b2f035b31ab25adce51fa5dec11be527157931545ca13db5d7e5c.png)
+![11113](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/bd1746a8431b2f035b31ab25adce51fa5dec11be527157931545ca13db5d7e5c.png)
 
 Eventually I choose the Rectangle LCD disaply since it was easier for wiring, and disaplying text. The main differences between a round LCD and Rectangle LCD was that Round LCD's are more commonyl used for images, and need multiple libarieis to be installed.
 
@@ -85,11 +85,11 @@ Here's what I learned:
 
 Here is a picture of my hardware connections:
 
-![yes](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/a7d5ead7eb6ae4891ade8a09237a0e384fd0fea1ede3cb3171c45e2eab635600.jpeg)
+![yes](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/a7d5ead7eb6ae4891ade8a09237a0e384fd0fea1ede3cb3171c45e2eab635600.jpeg)
 
 After I started my coding. I first coded the LCD without any if statements. I only wanted to dispaly text to make sure the code worked. Here is the code:
 
-![981f07d9-e312-4120-80fc-01f4fc5950ac](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/fd868a9c00a929fab9d19930bb001a325bbd18a4069b5b257f417acaded34b0a.jpeg)
+![981f07d9-e312-4120-80fc-01f4fc5950ac](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/fd868a9c00a929fab9d19930bb001a325bbd18a4069b5b257f417acaded34b0a.jpeg)
 
 I got a few errors during this time like  sysntax errors, and one error was that the port wasnt connected. To solve that, I made sure to double check my code to make sure there were no spellning mistakes(most of syntax errors where from spelling mistakes). After I was able to fix the port issue by taking out the usb cable and plugging it back again.
 
@@ -101,13 +101,13 @@ UltraSonic Sensor - If the sensor detects my hand  closer than 15 cm, then the L
 
 LCD- Based on the color of the LED the LCD dispalys different text
 
-![62a81603-8a04-4e46-a893-6d111d96fa9d](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/d6aac402d71da5a537c925722d1f91845abb9f306fb40d8abeb7d4d344e7b8c8.jpeg)
+![62a81603-8a04-4e46-a893-6d111d96fa9d](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/d6aac402d71da5a537c925722d1f91845abb9f306fb40d8abeb7d4d344e7b8c8.jpeg)
 
 In this image it also shows an IR sensor. After testing the code, I realised how do i know if the Ultra Sonic Sensor is working? To solve that, I added a IR sensor,and coded it quickly. I know a lot about IR sensors already, so it was easy to code it. All i had to do what print out the values for 0 or 1 on Serial Monitor. I tested my code to mke sure when the Ultr SOnic Sensor is showing a value less than 25 cm, then the Ir sensor should also be showing Value 0(in this case i tested first to see which vlaue shows my hand since it varies). After some trial and error, I decided this was good enough.
 
 Here is a screenshot i took while coding:
 
-![lik](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/30e402d1173656b00d46756a7d46d5a075fd2940ff163e14dac0345e7a8d8793.png)
+![lik](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/30e402d1173656b00d46756a7d46d5a075fd2940ff163e14dac0345e7a8d8793.png)
 
 I took notes for each coding part. Like for ultrsonic code, i labelled it Ultra Sonic Snesor it would be more neater, and clear to see.
 
@@ -121,20 +121,20 @@ GOT MY 3D Model Ready!
 
 I started off by modeling my 3d model for the project in Tinkercad. It took me around 1.5 hours. I used a caliper to measure the distance between my holes; here is the model in 3D design:
 
-![111132](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/4a57fd82322b73dc3deb60612074e9b0c36a11a8e7d06bb3bd2fe7ed80573016.png)
+![111132](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/4a57fd82322b73dc3deb60612074e9b0c36a11a8e7d06bb3bd2fe7ed80573016.png)
 
-![p](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/e04a50906e7185277f21b6cbff98b552e0b98313df50b548e838a3b909bca535.png)
+![p](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/e04a50906e7185277f21b6cbff98b552e0b98313df50b548e838a3b909bca535.png)
 
 Next, I started to wire the hardware onto the software. During this time, I encountered many issues. For example, the LEDs weren't popping up the way I expected them to. After 2 hours of non-stop work and trying to fit in the hardware, I decided to not add the hardware. Instead, I just tested the hardware as it was and decided that, as an improvement, I would add a better case for the hardware. Here is a picture during the process:
 
-![5d66e8eb-a96e-4383-9aab-7759d222d703](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/314bc951c770f2d4fdf87aa0a66255a5cf2636e42599e7a3d57b984359b1d797.jpeg)
+![5d66e8eb-a96e-4383-9aab-7759d222d703](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/314bc951c770f2d4fdf87aa0a66255a5cf2636e42599e7a3d57b984359b1d797.jpeg)
 
 I gave up at the end due to time, but if I had one more day, I could have been able to make the 3d model properly. I will do this as a future improvement and continue working on the project.
 
-![62a81603-8a04-4e46-a893-6d111d96fa9d](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/d6aac402d71da5a537c925722d1f91845abb9f306fb40d8abeb7d4d344e7b8c8.jpeg)
+![62a81603-8a04-4e46-a893-6d111d96fa9d](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/d6aac402d71da5a537c925722d1f91845abb9f306fb40d8abeb7d4d344e7b8c8.jpeg)
 
 My project worked, and the LCD was running smoothly. I will upload a video soon of the project working. Even though it didn't work as I wanted it to, I think this was still a success since it was my first time using most of the hardware.
 
 ALSO I made the wiring diagram on lucid chart(not actual wiried connections, took me 30 minutes):
 
-![Wiring](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/92fcd8b27e840eb2fe189515602ace39c071d462df1b8303138f122490537531.png)
+![Wiring](https://halflife.hackclub-assets.com/sessions/OV6IDpCKgzeGxU5I6u0lX5O426KLPYWz/92fcd8b27e840eb2fe189515602ace39c071d462df1b8303138f122490537531.png)

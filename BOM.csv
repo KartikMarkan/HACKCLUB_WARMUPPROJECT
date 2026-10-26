@@ -1,9 +1,2 @@
-Part,What it's for,Qty,Total,Vendor
-,,,,
-UltraSonic Sensor,For detecting objects in front of it,1,$1.41,AliExpress
-LCD Display ,Dispalyign the text for cars,1,$1.09,Ali Express
-1k Resistor ,Used to transfer energy ,1,$1.08,Ali Express
-Arduino Uno Board ,Used as the microcontrollelr for this project,1,$3.95,Ali Express
-Potimeter,Used to change LCD transperecny,1,$1.09,Ali Express
-LEDS,Used for lighitng up ,1,$1.09,Ali Express
-IR Sensor,Used to check accuracy of UltraSonic Sensor ,1,$0.96,Ali Express
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Estimated total shipping,1,,,$0.00,
