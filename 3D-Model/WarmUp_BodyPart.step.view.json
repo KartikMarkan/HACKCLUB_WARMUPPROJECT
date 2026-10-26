@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "source": "WarmUp_BodyPart.step",
+  "view": {
+    "viewDirection": [
+      0.5875341710765551,
+      0.18258421313130505,
+      0.7883315311038924
+    ],
+    "cameraUp": [
+      0,
+      1,
+      0
+    ],
+    "orthographic": false,
+    "displayMode": "shaded",
+    "clip": null
+  },
+  "collapsedPanels": [
+    "advanced-group"
+  ]
+}
