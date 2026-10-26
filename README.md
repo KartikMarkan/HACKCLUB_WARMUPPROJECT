@@ -65,11 +65,7 @@ Here are all the remaining pictures + STEP files!
 
 ![This is seventh image](images/image7.jpeg)
 
-3D Model Files:
 
-[Download the STEP file for Body Part](3D-Model/myfile.step)
-
-Notes: There is no BOM for this Project, I cancelled it last minute.
-
+Onsahpe Link: https://cad.onshape.com/documents/71bfa526d76e11b1930fcc82/w/508dad3e28d479954144cf39/e/e72498d6856ed9d64ffcb6cc
 Anyways, thanks for reading through my readme!
 
