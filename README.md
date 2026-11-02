@@ -76,5 +76,5 @@ Anyways, thanks for reading through my readme!
   <video src="PROJECTFINAL.mp4" width="100%" controls></video>
 </p>
 
-ALSO NOTE: Video is posted on the project page too, not just here!! 
+ALSO NOTE: Video is posted on the project page too, not just here!! I posted the video n my github but for some reason it is not showing it, and i tried my best to resolve it. However, it is not allowing me to put a video. zThe video is also part of my progress. Thats the final demo. Basically, the 3D printed part didnt work well, so I decided to leave the actual project as it is! Sorry about that! 
 
